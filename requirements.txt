@@ -1,4 +1,4 @@
-deepseed
+deepspeed
 albumentations
 av
 decord
